@@ -1,6 +1,6 @@
 # android-volley
 
-![Release](https://img.shields.io/github/release/hos3ein/android-colley.svg)
+![Release](https://img.shields.io/github/release/hos3ein/android-volley.svg?maxAge=1592000)
 
 Forked from [android volley](https://android.googlesource.com/platform/frameworks/volley)
 
